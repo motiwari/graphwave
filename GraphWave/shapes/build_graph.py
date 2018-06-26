@@ -5,7 +5,7 @@ import math
 import networkx as nx
 import numpy as np
 from shapes import *
-from utils.utils import *
+from ...utils.utils import *
 
 
 def build_structure(width_basis, basis_type, list_shapes, start=0,
